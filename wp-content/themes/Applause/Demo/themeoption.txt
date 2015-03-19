@@ -1,0 +1,17 @@
+﻿###a:58:{s:8:"last_tab";s:1:"2";s:7:"favicon";s:80:"http://wp.metrothemes.me/applause/wp-content/uploads/sites/2/2013/10/favicon.png";s:4:"logo";s:77:"http://wp.metrothemes.me/applause/wp-content/uploads/sites/2/2013/10/logo.png";s:12:"header_image";s:1:"0";s:7:"home_bg";s:83:"http://wp.metrothemes.me/applause/wp-content/uploads/sites/2/2013/10/header-bg2.jpg";s:12:"header_video";s:1:"1";s:16:"header_video_url";s:43:"https://www.youtube.com/watch?v=Nym1P-BO_ws";s:10:"contact_bg";s:0:"";s:13:"contact_color";s:0:"";s:14:"blog_page_link";a:1:{i:0;s:2:"99";}s:7:"c_title";s:15:"Connect with us";s:7:"s_title";s:28:"follow us on social networks";s:15:"contact_address";s:21:"See, Weseler Str. 151";s:5:"phone";s:14:"+(123) 4567890";s:7:"fax_add";s:9:"123456789";s:9:"email_add";s:15:"metro@gmail.com";s:5:"email";s:24:"devmetrothemes@gmail.com";s:13:"c_address_box";s:188:" <h4>Main Hq</h4>
+                <p>0000 Street <br>City, Country 0000</p>
+                <p>0-000-000000 <br>(0-000-000-0000)</p>
+                <p>Headquarters Staff Directory</p> ";s:16:"enable_googlemap";s:1:"1";s:12:"gmap_address";s:32:"Haltern am See, Weseler Str. 151";s:11:"footer_text";s:79:"<p>©2013 made with love by <a href="http://metrothemes.me">metrothemes</a></p>";s:10:"ap_twitter";s:1:"#";s:14:"ap_google_plus";s:1:"#";s:13:"ap_soundcloud";s:1:"#";s:10:"ap_facebok";s:1:"#";s:9:"ap_flickr";s:1:"#";s:12:"ap_instagram";s:1:"#";s:9:"ap_lastfm";s:1:"#";s:12:"ap_pinterest";s:1:"#";s:10:"ap_youtube";s:1:"#";s:13:"pages_topmenu";a:7:{i:0;s:2:"15";i:1;s:2:"12";i:2;s:2:"20";i:3;s:2:"74";i:4;s:2:"17";i:5;s:3:"130";i:6;s:2:"95";}s:13:"menu_homelink";s:1:"1";s:18:"integration_footer";s:518:"<script>
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-40303595-1']);
+  _gaq.push(['_setDomainName', 'wp.metrothemes.me']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>";s:18:"integration_header";s:0:"";s:10:"custom_css";s:0:"";s:19:"enable_colorization";s:1:"0";s:8:"bg_color";s:0:"";s:14:"audio_bg_color";s:0:"";s:20:"audio_hover_bg_color";s:0:"";s:9:"body_font";s:9:"Open+Sans";s:9:"body_size";s:2:"14";s:10:"body_color";s:7:"#ED145B";s:16:"home_font_family";s:4:"Abel";s:9:"home_size";s:0:"";s:10:"home_color";s:0:"";s:17:"sec_h_font_family";s:4:"Abel";s:8:"sec_size";s:0:"";s:9:"sec_color";s:0:"";s:7:"h2_size";s:4:"31.5";s:7:"h2_font";s:9:"Open+Sans";s:8:"h2_color";s:7:"#373432";s:7:"h3_size";s:4:"24.5";s:7:"h3_font";s:9:"Open+Sans";s:8:"h3_color";s:7:"#373432";s:7:"h4_size";s:4:"17.5";s:7:"h4_font";s:9:"Open+Sans";s:8:"h4_color";s:7:"#373432";s:15:"nhp-opts-backup";s:1:"1";}###

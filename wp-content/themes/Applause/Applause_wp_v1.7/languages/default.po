@@ -1,0 +1,987 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Applause\n"
+"POT-Creation-Date: 2014-02-08 03:11+0600\n"
+"PO-Revision-Date: 2014-02-08 03:13+0600\n"
+"Last-Translator: rupam <bbuppy@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:6
+msgid "404 <i class=\"icon-frown\"></i>"
+msgstr ""
+
+#: ../404.php:7
+msgid "Opps! Something went wrong..."
+msgstr ""
+
+#: ../404.php:8
+msgid "Page not found. Please continue to our"
+msgstr ""
+
+#: ../archive.php:11
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: ../archive.php:13
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: ../archive.php:15
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: ../archive.php:17
+msgid "Archives"
+msgstr ""
+
+#: ../category.php:9
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:164 ../functions.php:211
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:165 ../functions.php:212
+msgid "Install Plugins"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:166 ../functions.php:213
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:167
+msgid "Something went wrong."
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:178
+#: ../class-tgm-plugin-activation.php:490 ../functions.php:225
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:179
+#: ../class-tgm-plugin-activation.php:1846 ../functions.php:226
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:180
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:517
+#: ../class-tgm-plugin-activation.php:2058
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:545
+#, php-format
+msgid "The following plugin was activated successfully: %s."
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:704
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:1091
+msgid "External Link"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:1096
+msgid "Private Repository"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:1099
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:1103
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:1106
+msgid "Required"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:1106
+msgid "Recommended"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:1109
+msgid "Not Installed"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:1111
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:1281
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:1297
+msgid "Plugin"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:1298
+msgid "Source"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:1299
+msgid "Type"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:1300
+msgid "Status"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:1318
+msgid "Install"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:1319
+msgid "Activate"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:1829
+msgid "Install package not available."
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:1830
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:1831
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:1832
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:1833
+msgid "Plugin install failed."
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:1834
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:1845
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:1955
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:1956
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:1956
+#: ../class-tgm-plugin-activation.php:1965
+msgid "Show Details"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:1956
+#: ../class-tgm-plugin-activation.php:1965
+msgid "Hide Details"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:1957
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:1958
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:1962
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:1963
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:1964
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:1965
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:1966
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../class-tgm-plugin-activation.php:1967
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../comments.php:17
+msgid "No Responses"
+msgstr ""
+
+#: ../comments.php:17
+msgid "1 Response"
+msgstr ""
+
+#: ../comments.php:17
+msgid "% Responses"
+msgstr ""
+
+#: ../comments.php:32
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../comments.php:62
+msgid "You must be logged in to post a comment."
+msgstr ""
+
+#: ../comments.php:63
+#, php-format
+msgid "Logged in as <a href=\"%s\">%s</a>.</p>"
+msgstr ""
+
+#: ../comments.php:68
+msgid "Leave a Reply"
+msgstr ""
+
+#: ../comments.php:69
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: ../comments.php:70
+msgid "Cancel reply"
+msgstr ""
+
+#: ../comments.php:71
+msgid "Post Comment"
+msgstr ""
+
+#: ../functions.php:214
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../functions.php:227
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../functions/flickr_widget.php:21 ../functions/twitter-widget.php:63
+msgid "Title:"
+msgstr ""
+
+#: ../functions/flickr_widget.php:30
+msgid "Flickr user ID:"
+msgstr ""
+
+#: ../functions/flickr_widget.php:37
+msgid "How many pictures display:"
+msgstr ""
+
+#: ../functions/twitter-widget.php:9
+msgid "Metrothemes - Twitter Stream"
+msgstr ""
+
+#: ../functions/twitter-widget.php:67
+msgid "Username:"
+msgstr ""
+
+#: ../functions/twitter-widget.php:71
+msgid "Limit:"
+msgstr ""
+
+#: ../inc/nhp-options.php:51
+msgid "A Section added by hook"
+msgstr ""
+
+#: ../inc/nhp-options.php:53
+msgid ""
+"<p class=\"description\">This is a section created by adding a filter to the "
+"sections array, great to allow child themes, to add/remove sections from the "
+"options.</p>"
+msgstr ""
+
+#: ../inc/nhp-options.php:876
+msgid "Applause Options"
+msgstr ""
+
+#: ../inc/nhp-options.php:882
+msgid "Applause Theme Options"
+msgstr ""
+
+#: ../inc/nhp-options.php:940
+msgid "Theme Information 1"
+msgstr ""
+
+#: ../inc/nhp-options.php:942 ../inc/nhp-options.php:952
+msgid "<p>This is the tab content, HTML is allowed.</p>"
+msgstr ""
+
+#: ../inc/nhp-options.php:950
+msgid "Theme Information 2"
+msgstr ""
+
+#: ../inc/nhp-options.php:960
+msgid "<p>This is the sidebar content, HTML is allowed.</p>"
+msgstr ""
+
+#: ../inc/nhp-options.php:974
+msgid "General Settings"
+msgstr ""
+
+#: ../inc/nhp-options.php:976
+msgid ""
+"<p class=\"description\">Here you can configure the general aspects of the "
+"theme.!</p>"
+msgstr ""
+
+#: ../inc/nhp-options.php:1237
+msgid "Social Network"
+msgstr ""
+
+#: ../inc/nhp-options.php:1239
+msgid "<p class=\"description\">Add your social network links </p>"
+msgstr ""
+
+#: ../inc/nhp-options.php:1395
+msgid "Navigation"
+msgstr ""
+
+#: ../inc/nhp-options.php:1397
+msgid ""
+"<p class=\"description\">This area controls the menu(if it's not setup in "
+"Appearance -> Menus and the Breadcrumbs section. </p>"
+msgstr ""
+
+#: ../inc/nhp-options.php:1407
+msgid "Pages to include in the Main menu"
+msgstr ""
+
+#: ../inc/nhp-options.php:1409
+msgid "Choose what pages you want in the Main menu."
+msgstr ""
+
+#: ../inc/nhp-options.php:1441
+msgid "Integration"
+msgstr ""
+
+#: ../inc/nhp-options.php:1443
+msgid ""
+"<p class=\"description\">Use this to integrate google analytics code or to "
+"add any meta tag / html code you want.</p>"
+msgstr ""
+
+#: ../inc/nhp-options.php:1453
+msgid "Code before the &lt;/body&gt; tag"
+msgstr ""
+
+#: ../inc/nhp-options.php:1455
+msgid "<strong>Use this one for google analytics for example.</strong>"
+msgstr ""
+
+#: ../inc/nhp-options.php:1467
+msgid "The code will be added before the &lt;/head&gt; tag"
+msgstr ""
+
+#: ../inc/nhp-options.php:1469
+msgid ""
+"Use this one if you want to verify your site for google/bing/alexa/etc for "
+"example."
+msgstr ""
+
+#: ../inc/nhp-options.php:1494
+msgid "Colorization & Fonts"
+msgstr ""
+
+#: ../inc/nhp-options.php:1496
+msgid "<p class=\"description\"></p>"
+msgstr ""
+
+#: ../inc/nhp-options.php:1867
+msgid "<strong>Theme URL:</strong> "
+msgstr ""
+
+#: ../inc/nhp-options.php:1869
+msgid "<strong>Author:</strong> "
+msgstr ""
+
+#: ../inc/nhp-options.php:1871
+msgid "<strong>Version:</strong> "
+msgstr ""
+
+#: ../inc/nhp-options.php:1875
+msgid "<strong>Tags:</strong> "
+msgstr ""
+
+#: ../inc/nhp-options.php:1889
+msgid "Theme Information"
+msgstr ""
+
+#: ../inc/meta-box/cpt.php:11
+msgid "Events"
+msgstr ""
+
+#: ../inc/meta-box/cpt.php:12
+msgid "Events Item"
+msgstr ""
+
+#: ../inc/meta-box/cpt.php:13 ../inc/meta-box/cpt.php:14
+msgid "Add New Event"
+msgstr ""
+
+#: ../inc/meta-box/cpt.php:15
+msgid "Edit Event"
+msgstr ""
+
+#: ../inc/meta-box/cpt.php:16
+msgid "New Event"
+msgstr ""
+
+#: ../inc/meta-box/cpt.php:17
+msgid "View Event"
+msgstr ""
+
+#: ../inc/meta-box/cpt.php:18
+msgid "Search Events"
+msgstr ""
+
+#: ../inc/meta-box/cpt.php:19
+msgid "No Events found"
+msgstr ""
+
+#: ../inc/meta-box/cpt.php:20
+msgid "No Events found in Trash"
+msgstr ""
+
+#: ../inc/meta-box/cpt.php:39
+msgid "Audios"
+msgstr ""
+
+#: ../inc/meta-box/cpt.php:40
+msgid "Audios Item"
+msgstr ""
+
+#: ../inc/meta-box/cpt.php:41 ../inc/meta-box/cpt.php:42
+msgid "Add New Audio"
+msgstr ""
+
+#: ../inc/meta-box/cpt.php:43
+msgid "Edit Audio"
+msgstr ""
+
+#: ../inc/meta-box/cpt.php:44
+msgid "New Audio"
+msgstr ""
+
+#: ../inc/meta-box/cpt.php:45
+msgid "View Audio"
+msgstr ""
+
+#: ../inc/meta-box/cpt.php:46
+msgid "Search Audios"
+msgstr ""
+
+#: ../inc/meta-box/cpt.php:47
+msgid "No Audios found"
+msgstr ""
+
+#: ../inc/meta-box/cpt.php:48
+msgid "No Audios found in Trash"
+msgstr ""
+
+#: ../inc/meta-box/cpt.php:65
+msgid "Teams"
+msgstr ""
+
+#: ../inc/meta-box/cpt.php:66
+msgid "Member Item"
+msgstr ""
+
+#: ../inc/meta-box/cpt.php:67 ../inc/meta-box/cpt.php:68
+msgid "Add New Member"
+msgstr ""
+
+#: ../inc/meta-box/cpt.php:69
+msgid "Edit Member"
+msgstr ""
+
+#: ../inc/meta-box/cpt.php:70
+msgid "New Member"
+msgstr ""
+
+#: ../inc/meta-box/cpt.php:71
+msgid "View Member"
+msgstr ""
+
+#: ../inc/meta-box/cpt.php:72
+msgid "Search Member"
+msgstr ""
+
+#: ../inc/meta-box/cpt.php:73 ../inc/meta-box/cpt.php:99
+msgid "No Members found"
+msgstr ""
+
+#: ../inc/meta-box/cpt.php:74 ../inc/meta-box/cpt.php:100
+msgid "No Members found in Trash"
+msgstr ""
+
+#: ../inc/meta-box/cpt.php:91
+msgid "Videos"
+msgstr ""
+
+#: ../inc/meta-box/cpt.php:92
+msgid "Video Item"
+msgstr ""
+
+#: ../inc/meta-box/cpt.php:93 ../inc/meta-box/cpt.php:94
+msgid "Add New Video"
+msgstr ""
+
+#: ../inc/meta-box/cpt.php:95
+msgid "Edit Video"
+msgstr ""
+
+#: ../inc/meta-box/cpt.php:96
+msgid "New Video"
+msgstr ""
+
+#: ../inc/meta-box/cpt.php:97
+msgid "View Video"
+msgstr ""
+
+#: ../inc/meta-box/cpt.php:98
+msgid "Search Video"
+msgstr ""
+
+#: ../inc/meta-box/cpt.php:117
+msgid "Gallery"
+msgstr ""
+
+#: ../inc/meta-box/cpt.php:118
+msgid "Gallery Item"
+msgstr ""
+
+#: ../inc/meta-box/cpt.php:119 ../inc/meta-box/cpt.php:120
+msgid "Add New Item"
+msgstr ""
+
+#: ../inc/meta-box/cpt.php:121
+msgid "Edit Item"
+msgstr ""
+
+#: ../inc/meta-box/cpt.php:122
+msgid "New Item"
+msgstr ""
+
+#: ../inc/meta-box/cpt.php:123
+msgid "View Item"
+msgstr ""
+
+#: ../inc/meta-box/cpt.php:124
+msgid "Search Gallery Item"
+msgstr ""
+
+#: ../inc/meta-box/cpt.php:125
+msgid "No Item found"
+msgstr ""
+
+#: ../inc/meta-box/cpt.php:126
+msgid "No Item found in Trash"
+msgstr ""
+
+#: ../inc/meta-box/metaboxes.php:33
+msgid "Page Options"
+msgstr ""
+
+#: ../inc/meta-box/metaboxes.php:40
+msgid "Title"
+msgstr ""
+
+#: ../inc/meta-box/metaboxes.php:41
+msgid "This is section Title"
+msgstr ""
+
+#: ../inc/meta-box/metaboxes.php:46
+msgid "Short description"
+msgstr ""
+
+#: ../inc/meta-box/metaboxes.php:47
+msgid "Short description about this section"
+msgstr ""
+
+#: ../inc/meta-box/metaboxes.php:53
+msgid "Background Color"
+msgstr ""
+
+#: ../inc/meta-box/metaboxes.php:54
+msgid "Page Background Color"
+msgstr ""
+
+#: ../inc/meta-box/metaboxes.php:60
+msgid "Background Image"
+msgstr ""
+
+#: ../inc/meta-box/metaboxes.php:61
+msgid "Page Background Image"
+msgstr ""
+
+#: ../inc/meta-box/metaboxes.php:68
+msgid "Text Color"
+msgstr ""
+
+#: ../inc/meta-box/metaboxes.php:69
+msgid "Page Text Color"
+msgstr ""
+
+#: ../inc/meta-box/metaboxes.php:82
+msgid "Event Options"
+msgstr ""
+
+#: ../inc/meta-box/metaboxes.php:91
+msgid "Location"
+msgstr ""
+
+#: ../inc/meta-box/metaboxes.php:99
+msgid "Venue"
+msgstr ""
+
+#: ../inc/meta-box/metaboxes.php:107
+msgid "Start Time"
+msgstr ""
+
+#: ../inc/meta-box/metaboxes.php:115
+msgid "End Time"
+msgstr ""
+
+#: ../inc/meta-box/metaboxes.php:124
+msgid "Date"
+msgstr ""
+
+#: ../inc/meta-box/metaboxes.php:165
+msgid "Month"
+msgstr ""
+
+#: ../inc/meta-box/metaboxes.php:187
+msgid "Year"
+msgstr ""
+
+#: ../inc/meta-box/metaboxes.php:216
+msgid "Day"
+msgstr ""
+
+#: ../inc/meta-box/metaboxes.php:233
+msgid "Price"
+msgstr ""
+
+#: ../inc/meta-box/metaboxes.php:234
+msgid "Tickets Price"
+msgstr ""
+
+#: ../inc/meta-box/metaboxes.php:241
+msgid "Buy Url"
+msgstr ""
+
+#: ../inc/meta-box/metaboxes.php:242
+msgid "Tickets buy link"
+msgstr ""
+
+#: ../inc/meta-box/metaboxes.php:249
+msgid "Tickets Status"
+msgstr ""
+
+#: ../inc/meta-box/metaboxes.php:262
+msgid "Map Address"
+msgstr ""
+
+#: ../inc/meta-box/metaboxes.php:263
+msgid ""
+"Google Map address for visitors . Example:Haltern am See, Weseler Str. 151"
+msgstr ""
+
+#: ../inc/meta-box/metaboxes.php:270 ../inc/meta-box/metaboxes.php:341
+msgid "Details"
+msgstr ""
+
+#: ../inc/meta-box/metaboxes.php:271
+msgid "Some details about your work"
+msgstr ""
+
+#: ../inc/meta-box/metaboxes.php:287
+msgid "Audio Options"
+msgstr ""
+
+#: ../inc/meta-box/metaboxes.php:294
+msgid "Audio File"
+msgstr ""
+
+#: ../inc/meta-box/metaboxes.php:295
+msgid "Upload your audio file,File Format should be mp3,aac,ogg,wav"
+msgstr ""
+
+#: ../inc/meta-box/metaboxes.php:303
+msgid "Optional Audio Url"
+msgstr ""
+
+#: ../inc/meta-box/metaboxes.php:304
+msgid "Past your uploaded audio url"
+msgstr ""
+
+#: ../inc/meta-box/metaboxes.php:310
+msgid "Optional Soundcloud Embed"
+msgstr ""
+
+#: ../inc/meta-box/metaboxes.php:311
+msgid "Past your Soundcloud Embed code "
+msgstr ""
+
+#: ../inc/meta-box/metaboxes.php:326
+msgid "member Options"
+msgstr ""
+
+#: ../inc/meta-box/metaboxes.php:334
+msgid "Position"
+msgstr ""
+
+#: ../inc/meta-box/metaboxes.php:335
+msgid "Position in the band"
+msgstr ""
+
+#: ../inc/meta-box/metaboxes.php:342
+msgid "Some details about member"
+msgstr ""
+
+#: ../inc/meta-box/metaboxes.php:348
+msgid "Facebook profile"
+msgstr ""
+
+#: ../inc/meta-box/metaboxes.php:349
+msgid "Member facebook profile link"
+msgstr ""
+
+#: ../inc/meta-box/metaboxes.php:355
+msgid "Twitter profile"
+msgstr ""
+
+#: ../inc/meta-box/metaboxes.php:356
+msgid "Member twitter profile link"
+msgstr ""
+
+#: ../inc/meta-box/metaboxes.php:362
+msgid "Google plus profile"
+msgstr ""
+
+#: ../inc/meta-box/metaboxes.php:363
+msgid "Member Google plus profile link"
+msgstr ""
+
+#: ../inc/meta-box/metaboxes.php:369
+msgid "Tumblr plus profile"
+msgstr ""
+
+#: ../inc/meta-box/metaboxes.php:370
+msgid "Member Tumblr plus profile link"
+msgstr ""
+
+#: ../inc/meta-box/metaboxes.php:382
+msgid "Video Options"
+msgstr ""
+
+#: ../inc/meta-box/metaboxes.php:389
+msgid "Video Url"
+msgstr ""
+
+#: ../inc/meta-box/metaboxes.php:390
+msgid "Past your video url"
+msgstr ""
+
+#: ../inc/meta-box/metaboxes.php:404
+msgid "Gallery Options"
+msgstr ""
+
+#: ../inc/options/options.php:49 ../inc/options/options.php:51
+msgid "Options"
+msgstr ""
+
+#: ../inc/options/options.php:248 ../inc/options/options.php:249
+#: ../inc/options/options.php:682
+msgid "Import / Export"
+msgstr ""
+
+#: ../inc/options/options.php:275 ../inc/options/options.php:276
+#: ../inc/options/options.php:701 ../inc/options/options.php:783
+msgid "Dev Mode Info"
+msgstr ""
+
+#: ../inc/options/options.php:331
+msgid "Are you sure? Resetting will loose all custom values."
+msgstr ""
+
+#: ../inc/options/options.php:648 ../inc/options/options.php:808
+msgid "Reset to Defaults"
+msgstr ""
+
+#: ../inc/options/options.php:654
+msgid "<strong>Settings Imported!</strong>"
+msgstr ""
+
+#: ../inc/options/options.php:656
+msgid "<strong>Settings Saved!</strong>"
+msgstr ""
+
+#: ../inc/options/options.php:660
+msgid "<strong>Settings have changed!, you should save them!</strong>"
+msgstr ""
+
+#: ../inc/options/options.php:661
+msgid "<strong><span></span> error(s) were found!</strong>"
+msgstr ""
+
+#: ../inc/options/options.php:663
+msgid "<strong><span></span> warning(s) were found!</strong>"
+msgstr ""
+
+#: ../inc/options/options.php:719
+msgid "Import / Export Options"
+msgstr ""
+
+#: ../inc/options/options.php:721
+msgid "Import Options"
+msgstr ""
+
+#: ../inc/options/options.php:729
+msgid ""
+"Input your backup file below and hit Import to restore your sites options "
+"from a backup."
+msgstr ""
+
+#: ../inc/options/options.php:742
+msgid ""
+"Input the URL to another sites options set and hit Import to load the "
+"options from that site."
+msgstr ""
+
+#: ../inc/options/options.php:752
+msgid "Import"
+msgstr ""
+
+#: ../inc/options/options.php:752
+msgid ""
+"WARNING! This will overwrite any existing options, please proceed with "
+"caution!"
+msgstr ""
+
+#: ../inc/options/options.php:755
+msgid "Export Options"
+msgstr ""
+
+#: ../inc/options/options.php:757
+msgid ""
+"Here you can copy/download your themes current option settings. Keep this "
+"safe as you can use it as a backup should anything go wrong. Or you can use "
+"it to restore your settings on this site (or any other site). You also have "
+"the handy option to copy the link to yours sites settings. Which you can "
+"then use to duplicate on another site"
+msgstr ""
+
+#: ../inc/options/fields/color_gradient/field_color_gradient.php:35
+msgid "From:"
+msgstr ""
+
+#: ../inc/options/fields/color_gradient/field_color_gradient.php:38
+msgid " To:"
+msgstr ""
+
+#: ../inc/options/fields/google_webfonts/field_google_webfonts.php:42
+msgid ""
+"The fonts provided below are free to use custom fonts from the <a href="
+"\"http://www.google.com/webfonts\" target=\"_blank\">Google Web Fonts "
+"directory</a>.<br/>Please <a href=\"http://www.google.com/webfonts\" target="
+"\"_blank\">browse the directory</a> to preview a font, then select your "
+"choice below."
+msgstr ""
+
+#: ../inc/options/fields/multi_text/field_multi_text.php:39
+#: ../inc/options/fields/multi_text/field_multi_text.php:46
+#: ../inc/options/fields/multi_text/field_multi_text.php:50
+msgid "Remove"
+msgstr ""
+
+#: ../inc/options/fields/multi_text/field_multi_text.php:54
+msgid "Add More"
+msgstr ""
+
+#: ../inc/options/fields/upload/field_upload.php:77
+msgid "Browse"
+msgstr ""
+
+#: ../inc/options/fields/upload/field_upload.php:79
+msgid "Remove Upload"
+msgstr ""
+
+#: ../inc/options/validation/color/validation_color.php:15
+msgid "This field must be a valid color value."
+msgstr ""
+
+#: ../inc/options/validation/comma_numeric/validation_comma_numeric.php:15
+msgid ""
+"You must provide a comma seperated list of numerical values for this option."
+msgstr ""
+
+#: ../inc/options/validation/date/validation_date.php:15
+msgid "This field must be a valid date."
+msgstr ""
+
+#: ../inc/options/validation/email/validation_email.php:15
+msgid "You must provide a valid email for this option."
+msgstr ""
+
+#: ../inc/options/validation/no_html/validation_no_html.php:15
+msgid ""
+"You must not enter any HTML in this field, all HTML tags have been removed."
+msgstr ""
+
+#: ../inc/options/validation/no_special_chars/validation_no_special_chars.php:15
+msgid ""
+"You must not enter any special characters in this field, all special "
+"characters have been removed."
+msgstr ""
+
+#: ../inc/options/validation/numeric/validation_numeric.php:15
+msgid "You must provide a numerical value for this option."
+msgstr ""
+
+#: ../inc/options/validation/url/validation_url.php:15
+msgid "You must provide a valid URL for this option."
+msgstr ""

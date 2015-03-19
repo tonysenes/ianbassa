@@ -1,0 +1,11 @@
+<wpml-config>
+    <custom-types>
+        <custom-type translate="1">events</custom-type>
+		<custom-type translate="1">audios</custom-type>
+        <custom-type translate="1">teams</custom-type>
+        <custom-type translate="0">gallery</custom-type>
+        <custom-type translate="0">videos_manager</custom-type>		
+    </custom-types>    
+</wpml-config>
+
+
